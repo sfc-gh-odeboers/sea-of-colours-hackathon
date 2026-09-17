@@ -1,0 +1,15 @@
+{
+  "team": "sforza_reformed",
+  "name": "the_killer",
+  "participants": [
+    "Alex Civita",
+    "Davinder Mundy",
+    "Tom Sprenger",
+    "Galiya Warrier",
+    "Luis Arcia",
+    "Omri de Boers"
+  ],
+  "menu_label": "THE KILLER — Sforza Reformed (needs a Snowflake PAT · slow)",
+  "entry": "harness:run",
+  "needs_llm": true
+}
